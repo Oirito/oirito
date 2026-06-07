@@ -89,12 +89,11 @@ Interactive Dynamic Programming learning tool.
 - 🌐 Portfolio: [Your Portfolio Link]
 
 ---
-
 ## 📈 GitHub Stats
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Oirito&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oirito&layout=compact&theme=tokyonight)
 
 ---
 
