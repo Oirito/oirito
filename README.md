@@ -91,9 +91,9 @@ Interactive Dynamic Programming learning tool.
 ---
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oirito&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oirito&theme=github_dark&v=1)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oirito&theme=github_dark&v=1)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oirito&theme=github_dark)
 ---
 
 ## 🎯 Current Focus
