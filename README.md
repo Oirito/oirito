@@ -114,4 +114,4 @@ Interactive Dynamic Programming learning tool.
 
 ---
 
-### "Code. Learn. Build. Repeat."
+### "Code. Learn. Build. Repeat. Enjoy."
